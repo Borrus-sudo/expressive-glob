@@ -2,6 +2,7 @@
   "name": "ts-lib-starter",
   "version": "1.0.0",
   "license": "MIT",
+  "author": "JSGandalf(he/him)",
   "scripts": {
     "test": "jest",
     "prepare": "husky install",
